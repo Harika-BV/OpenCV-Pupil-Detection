@@ -19,5 +19,6 @@ A Haar Cascade is basically a classifier which is used to detect particular obje
 ```
 
 > haarcascade_righteye_2splits.xml
-```A Haar Cascade is basically a classifier which is used to detect particular objects from the source. The haarcascade_frontalface_default.xml is a haar cascade designed by OpenCV to detect the frontal face.
+```
+A Haar Cascade is basically a classifier which is used to detect particular objects from the source. The haarcascade_frontalface_default.xml is a haar cascade designed by OpenCV to detect the frontal face.
 ```
